@@ -1,0 +1,109 @@
+sample,group,age,histological_type,FIGO_stage,CA125,set
+A19,HC,62,HC,NA,NA,train
+A20,HC,61,HC,NA,NA,test
+A21,HC,56,HC,NA,NA,test
+A22,HC,56,HC,NA,NA,train
+A23,HC,68,HC,NA,NA,train
+A24,HC,67,HC,NA,NA,test
+A25,HC,64,HC,NA,NA,train
+A26,HC,60,HC,NA,NA,test
+A28,HC,56,HC,NA,NA,test
+A30,HC,63,HC,NA,NA,train
+A32,HC,57,HC,NA,NA,train
+A33,HC,57,HC,NA,NA,train
+A34,HC,56,HC,NA,NA,train
+A36,HC,55,HC,NA,NA,test
+A38,HC,55,HC,NA,NA,train
+A39,HC,55,HC,NA,NA,test
+A40,HC,69,HC,NA,NA,test
+A42,HC,67,HC,NA,NA,train
+A43,HC,67,HC,NA,NA,train
+A44,HC,65,HC,NA,NA,test
+A45,HC,63,HC,NA,NA,train
+A47,HC,62,HC,NA,NA,train
+A50,HC,59,HC,NA,NA,train
+A51,HC,57,HC,NA,NA,train
+A52,HC,55,HC,NA,NA,test
+B13,HC,65,HC,NA,NA,test
+B16,HC,61,HC,NA,NA,train
+B19,HC,59,HC,NA,NA,train
+B21,HC,56,HC,NA,NA,train
+B24,HC,55,HC,NA,NA,train
+B28,HC,52,HC,NA,NA,train
+B29,HC,52,HC,NA,NA,train
+B32,HC,49,HC,NA,NA,train
+B36,HC,44,HC,NA,NA,train
+B37,HC,44,HC,NA,NA,train
+B40,HC,43,HC,NA,NA,test
+B43,HC,42,HC,NA,NA,train
+B44,HC,42,HC,NA,NA,train
+B56,HC,53,HC,NA,NA,test
+V1,BOT,46,Benign,NA,111,test
+V11,BOT,63,Benign,NA,6.1,test
+V12,BOT,61,Benign,NA,8.9,test
+V13,BOT,56,Benign,NA,8.5,train
+V20,BOT,61,Benign,NA,10.7,train
+V24,BOT,50,Benign,NA,21.1,train
+V25,BOT,57,Benign,NA,906,train
+V26,BOT,44,Benign,NA,44.6,train
+V27,BOT,87,Benign,NA,490.9,test
+V28,BOT,59,Benign,NA,32.2,train
+V31,BOT,21,Benign,NA,340.5,train
+V32,EOC,67,serous adenocarcinoma,advance,1404.5,train
+V33,BOT,47,Benign,NA,8,train
+V34,BOT,43,Benign,NA,68.6,train
+V35,BOT,60,Benign,NA,NA,train
+V36,BOT,50,Benign,NA,13.1,test
+V37,EOC,64,serous adenocarcinoma,advance,2351.3,train
+V38,EOC,46,serous papillary adenocarcinoma,advance,524.8,train
+V39,BOT,20,Benign,NA,25.5,test
+V40,BOT,60,Benign,NA,8.1,train
+V41,EOC,59,serous papillary cystadenocarcinoma,early,40.1,train
+V42,EOC,70,serous adenocarcinoma,advance,121.4,test
+V43,BOT,20,Benign,NA,94.6,train
+V44,EOC,63,serous adenocarcinoma,early,1371.5,test
+V45,BOT,59,Benign,NA,17.4,train
+V46,BOT,32,Benign,NA,106.3,train
+V47,BOT,36,Benign,NA,19.3,train
+V48,EOC,61,serous adenocarcinoma,early,461.3,test
+V49,BOT,36,Benign,NA,40.7,train
+V50,EOC,57,serous adenocarcinoma,early,1958.3,train
+V51,EOC,39,serous papillary adenocarcinoma,early,179.5,train
+V52,BOT,32,Benign,NA,50.8,test
+V53,BOT,43,Benign,NA,91.5,train
+V54,EOC,60,serous adenocarcinoma,early,44.2,train
+V56,EOC,62,serous adenocarcinoma,early,888.5,test
+V57,BOT,46,Benign,NA,189.1,train
+V58,BOT,43,Benign,NA,39,train
+V59,EOC,50,serous papillary cystadenocarcinoma,early,1426.9,test
+V6,BOT,40,Benign,NA,39.8,train
+V60,EOC,56,serous carcinoma,advance,313.2,train
+V61,EOC,47,serous carcinoma,advance,6908.4,train
+V62,BOT,54,Benign,NA,443.7,train
+V63,BOT,47,Benign,NA,28.6,test
+V64,EOC,59,serous carcinoma,early,1074.5,train
+V65,EOC,50,serous carcinoma,advance,811.8,train
+V66,EOC,55,serous carcinoma,early,539.5,train
+V67,BOT,23,Benign,NA,32.4,test
+V68,EOC,47,serous carcinoma,advance,1777.6,train
+V69,EOC,47,serous carcinoma,advance,3296.2,test
+V7,BOT,37,Benign,NA,60.8,test
+V70,EOC,51,serous carcinoma,advance,5490.9,test
+V71,EOC,54,serous carcinoma,advance,1306.3,train
+V72,EOC,51,serous carcinoma,advance,10000,test
+V73,EOC,59,serous carcinoma,advance,10000,train
+V74,EOC,74,serous carcinoma,advance,2775.2,test
+V75,EOC,47,serous carcinoma,early,554.3,train
+V76,EOC,63,serous carcinoma,early,372.7,train
+V77,EOC,44,serous carcinoma,advance,1163.9,train
+V78,EOC,72,serous carcinoma,advance,3448.6,train
+V79,EOC,67,serous carcinoma,advance,881.7,train
+V80,EOC,67,serous carcinoma,early,2894.4,test
+V81,BOT,69,Benign,NA,31.5,train
+V82,EOC,57,serous carcinoma,early,729.2,train
+V83,EOC,47,serous carcinoma,advance,1651.8,test
+V84,EOC,40,serous carcinoma,advance,6096.4,train
+V85,EOC,45,serous carcinoma,advance,1760.6,test
+V86,EOC,51,serous carcinoma,early,388.6,train
+V91,EOC,58,serous adenocarcinoma,early,968.8,train
+V95,BOT,16,Benign,NA,72.9,test
